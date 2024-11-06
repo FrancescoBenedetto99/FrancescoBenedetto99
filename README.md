@@ -8,9 +8,12 @@ I'm currently studying *Information Bioengineering MSc* at *Politecnico di Milan
 
 At the moment, I'm deeply involved in my thesis project, which focuses on **instance-level cell generation** using **Generative AI** techniques. This work combines the latest advances in generative deep lerning modeling with the nuanced requirements of biomedical applications.
 
-📫 **How to Reach Me**  
-- **Email**: [francesco.benedetto999@gmail.com](mailto:francesco.benedetto999@gmail.com)
-- **LinkedIn**: [Francesco Benedetto](https://www.linkedin.com/in/francesco-benedetto-b3205529a/)
+📌 **Some Interesting Projects**
+
+- **[Suspected Pneumonia Mortality Prediction Model](https://github.com/FrancescoBenedetto99/Suspected-Pneumonia--SLHD_PROJECT)**: A predictive model designed to estimate the mortality risk of critically ill patients suspected of pneumonia, leveraging clinical data to understand key factors influencing patient outcomes.
+  
+- **[Street Flooding Simulation](https://github.com/FrancescoBenedetto99/Street-Flooding-Problem--ML_PROJECT_2)**:   A machine learning model that predicts flood outcomes based on initial environmental conditions, aimed at replicating a flood simulator's predictions and understanding the underlying causes of flooding events.
+
 
 💼 **Skills & Tools**
 
@@ -19,6 +22,14 @@ Here’s a quick overview of the programming languages and tools I'm currently p
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+
+🔧 **New projects will be added soon as I'm in the process of updating and expanding my GitHub profile.**
+
+
+📫 **How to Reach Me**  
+- **Email**: [francesco.benedetto999@gmail.com](mailto:francesco.benedetto999@gmail.com)
+- **LinkedIn**: [Francesco Benedetto](https://www.linkedin.com/in/francesco-benedetto-b3205529a/)
 
 ---
 
