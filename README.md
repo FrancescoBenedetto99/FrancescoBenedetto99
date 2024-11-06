@@ -1,9 +1,11 @@
 # Hi, I'm Francesco Benedetto 👋
 
-🎓 **Educational Background**  
+🎓 **Educational Background**
+
 I'm currently studying *Information Bioengineering MSc* at *Politecnico di Milano*. My focus is on applying machine learning and deep learning techniques in the biomedical field, primarily working with signals and images, as well as **natural language processing (NLP)** in healthcare..
 
 🧪 **Thesis Project**  
+
 At the moment, I'm deeply involved in my thesis project, which focuses on **instance-level cell generation** using **Generative AI** techniques. This work combines the latest advances in generative deep lerning modeling with the nuanced requirements of biomedical applications.
 
 📫 **How to Reach Me**  
