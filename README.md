@@ -19,7 +19,6 @@ At the moment, I'm deeply involved in my thesis project, which focuses on **inst
 
 Here’s a quick overview of the programming languages and tools I'm currently proficient in, with plans to expand further:
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
