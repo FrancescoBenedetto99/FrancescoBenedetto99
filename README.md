@@ -17,11 +17,18 @@ At the moment, I'm deeply involved in my thesis project, which focuses on **inst
 
 💼 **Skills & Tools**
 
-Here’s a quick overview of the programming languages and tools I'm currently proficient in, with plans to expand further:
+Here’s a quick overview of the programming languages, libraries, and tools I'm currently proficient in, with plans to expand further:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
+### **Key Libraries**
+![Numpy](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3D44?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 🔧 **New projects will be added soon as I'm in the process of updating and expanding my GitHub profile.**
 
@@ -34,7 +41,3 @@ Here’s a quick overview of the programming languages and tools I'm currently p
 
 
 
-<!---
-FrancescoBenedetto99/FrancescoBenedetto99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
