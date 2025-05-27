@@ -6,7 +6,7 @@ I'm currently studying *Information Bioengineering MSc* at *Politecnico di Milan
 
 🧪 **Thesis Project**  
 
-At the moment, I'm deeply involved in my thesis project, which focuses on **instance-level cell generation** using **Generative AI** techniques. This work combines the latest advances in generative deep lerning modeling with the nuanced requirements of biomedical applications.
+At the moment, I'm deeply involved in my thesis project, which focuses on **instance-level cell generation** using **generative deep learning modelling** 
 
 📌 **Some Interesting Projects**
 
