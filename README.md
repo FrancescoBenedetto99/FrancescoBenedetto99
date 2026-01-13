@@ -6,7 +6,7 @@ I'm a *Information Bioengineering MSc* graduate at *Politecnico di Milano*. My f
 
 🧪 **Thesis Project**  
 
-At the moment, I'm deeply involved in my thesis project, which focuses on **instance-level cell generation** using **generative deep learning modelling** 
+At the moment, I'm involved in the publication of my thesis project, which focuses on **instance-level cell generation** using **generative deep learning modelling** 
 
 📌 **Some Interesting Projects**
 
