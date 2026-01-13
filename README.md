@@ -2,7 +2,7 @@
 
 🎓 **Educational Background**
 
-I'm currently studying *Information Bioengineering MSc* at *Politecnico di Milano*. My focus is on applying machine learning and deep learning techniques in the biomedical field, primarily working with signals and images, as well as **natural language processing (NLP)** in healthcare.
+I'm a *Information Bioengineering MSc* graduate at *Politecnico di Milano*. My focus is on applying machine learning and deep learning techniques in the biomedical field, primarily working with signals and images, as well as **natural language processing (NLP)** in healthcare.
 
 🧪 **Thesis Project**  
 
